@@ -6,10 +6,10 @@
 
 //  } 
 
-// var i = 10
-// while (i  >= 0 ) {
+var i = 10
+while (i  >= 0 ) {
 
-//          console.log(i)
-//           i--
-//      } 
+         console.log(i)
+          i--
+     } 
  
